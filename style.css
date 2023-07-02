@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;700&display=swap");
+body {
+	text-align: center;
+	font-family: "Rubik", sans-serif;
+}
+.title {
+	background-color: antiquewhite;
+	padding: 20px;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+}
+ul,
+ol {
+	text-align: left;
+	line-height: 40px;
+}
+a {
+	text-decoration-line: none;
+	-moz-text-decoration-line: none;
+	color: brown;
+}
+.header-img {
+	width: 30vw;
+	height: auto;
+}
+
+.recipe-img {
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	width: 400px;
+}
+.recipe-bg {
+	background-color: rgb(248, 243, 237);
+}
+.main-heading {
+	background-color: brown;
+	color: white;
+	padding: 15px 0px;
+}
+.back {
+	color: rgb(122, 19, 19);
+	border-rgb(145, 15, 15)s: 30px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	padding: 20px;
+}
