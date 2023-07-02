@@ -45,10 +45,5 @@ a {
 }
 .back {
 	color: rgb(122, 19, 19);
-	border-rgb(145, 15, 15)s: 30px;
-	-webkit-border-radius: 30px;
-	-moz-border-radius: 30px;
-	-ms-border-radius: 30px;
-	-o-border-radius: 30px;
 	padding: 20px;
 }
